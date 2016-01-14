@@ -144,6 +144,11 @@ LICENSE file.
       <artifactId>tarantool-binding</artifactId>
       <version>${project.version}</version>
     </dependency>
+    <dependency>
+      <groupId>com.yahoo.ycsb</groupId>
+      <artifactId>marklogic-binding</artifactId>
+      <version>${project.version}</version>
+    </dependency>
 <!--
     <dependency>
       <groupId>com.yahoo.ycsb</groupId>

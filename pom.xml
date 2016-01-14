@@ -103,7 +103,7 @@ LICENSE file.
     <module>accumulo</module>
     <module>aerospike</module>
     <module>cassandra</module>
-    <module>cassandra2</module>
+    <!--module>cassandra2</module-->
     <module>couchbase</module>
     <module>distribution</module>
     <module>dynamodb</module>
@@ -120,6 +120,7 @@ LICENSE file.
     <!--<module>mapkeeper</module>-->
     <module>memcached</module>
     <module>mongodb</module>
+    <module>marklogic</module>
     <!--module>nosqldb</module-->
     <module>orientdb</module>
     <module>redis</module>
